@@ -1,2 +1,30 @@
-# AI-ML-COURSE-PROGRESS
-This repository contains my hands-on coding practice and projects from the AI/ML course at AISECT. It includes implementations of core machine learning algorithms using Python and popular libraries like NumPy, Pandas, scikit-learn.The goal is to reinforce theoretical concepts through practical coding and real-world datasets.
+# 🧠 AI/ML Course Practice – AISECT
+
+Welcome to my AI & Machine Learning course practice repository!  
+This repository contains coding exercises, projects, and notes based on the topics covered in the AI/ML course offered by **AISECT**.
+
+---
+
+## 📚 Course Overview
+
+The course covers the fundamental and advanced concepts of Artificial Intelligence and Machine Learning, including:
+
+- Introduction to AI & ML
+- Supervised and Unsupervised Learning
+- Regression and Classification Algorithms
+- Model Evaluation Techniques
+- Real-world ML projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Programming Language:** Python
+- **Libraries Used:**
+  - NumPy
+  - Pandas
+  - Matplotlib / Seaborn
+  - scikit-learn
+  - Jupyter Notebook / Google Colab
+
+---
