@@ -49,7 +49,7 @@ Feel free to connect or suggest improvements:
 
 📧 Email: mohameedrafik.a@gmail.com
 
-💼 LinkedIn: [Insert your profile link]
+💼 LinkedIn: www.linkedin.com/in/mohamed-rafik-a-049436286
 
 ⭐ Acknowledgements
 Thanks to:
