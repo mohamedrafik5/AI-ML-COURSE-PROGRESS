@@ -28,3 +28,36 @@ The course covers the fundamental and advanced concepts of Artificial Intelligen
   - Jupyter Notebook / Google Colab
 
 ---
+Planned
+
+📌 Notes
+This repo is for practice and learning purposes.
+
+Datasets used are either open-source or course-provided.
+
+Code includes comments for better understanding.
+
+🙋‍♂️ About Me
+Name: Mohamed Rafik A
+Course: B.Tech – Artificial Intelligence & Data Science
+Institution: JCT College of Engineering and Technology
+Learning Platform: AISECT
+Email: mohameedrafik.a@gmail.com
+
+📫 Contact
+Feel free to connect or suggest improvements:
+
+📧 Email: mohameedrafik.a@gmail.com
+
+💼 LinkedIn: [Insert your profile link]
+
+⭐ Acknowledgements
+Thanks to:
+
+My tutor at AISECT for guidance
+
+AISECT Learning Portal
+
+Open-source community and contributors
+
+
