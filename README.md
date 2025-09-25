@@ -14,6 +14,9 @@ The course covers the fundamental and advanced concepts of Artificial Intelligen
 - Regression and Classification Algorithms
 - Model Evaluation Techniques
 - Real-world ML projects
+- Deep Learning
+- Nlp
+- Gen AI
 
 ---
 
@@ -26,6 +29,10 @@ The course covers the fundamental and advanced concepts of Artificial Intelligen
   - Matplotlib / Seaborn
   - scikit-learn
   - Jupyter Notebook / Google Colab
+  - Tensor flow
+  - Spacy
+  - NLTK
+  - ollama
 
 ---
 Planned
